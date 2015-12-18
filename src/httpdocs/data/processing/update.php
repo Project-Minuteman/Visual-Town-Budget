@@ -13,7 +13,7 @@
 
   <script>
     $(document).ready(function(){
-      $('.controls.file').append('<span class="file-input-name">Select a file</span>');
+      $('.controls.file').append('<span class="file-input-name">Browse to select a file.</span>');
       $("#upload-button").click(function(){
         var fileName = $("#upload-file").val();
         if(fileName === 'revenues.csv' || fileName === 'expenses.csv' || fileName === 'funds.csv'){
@@ -38,7 +38,7 @@
 
   <div  style="margin-left:20px; display:inline-block;">
     <div >
-      <h1> AVB Data Upload </h1>
+      <h1> LVB Data Upload </h1>
     </div>
     <form action="update" enctype="multipart/form-data" method="post" class="form-horizontal">
       <div class="control-group">

@@ -1,3 +1,5 @@
+#!/ramdisk/bin/python
+
 import csv, json, hashlib, zlib, sys, os
 
 FIRST_YEAR = None
@@ -198,7 +200,7 @@ def updateHome():
 		LAST_YEAR = None
 		MAX_LEVEL = 0
 		try:
-			fd = open(os.path.dirname(__file__) + file, 'rU')
+			fd = open(os.path.dirname(__file__) + "/" + file, 'rU')
 			csventries = generateList(fd)
 			sections += [csventries[-1]]
 		except Exception, e:

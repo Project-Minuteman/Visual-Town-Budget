@@ -33,10 +33,11 @@ avb.home = function () {
      * Tutorial node IDs.
      * They are used to identify which zone to highlight on the treemap
      */
-    var townDepartments = 'dc313bc5',
-        fireDepartment = 'bd2b7e5f',
-        snowRemoval = 'c61196eb',
-        townSchools = 'b5fe5259';
+    var townDepartments = '08362933',
+        sharedExpenses = '1a8b67cf',
+        fireDepartment = 'ab8474d7',
+        snowRemoval = 'b8fcd92d',
+        townSchools = 'de7a22a0';
 
     /*
     * Main tour, for new users.
@@ -83,15 +84,15 @@ avb.home = function () {
     *   Topic tour, begins when user clicks on FAQ
     */
     var fireTour = [{
-        selector: '#fire',
-        text: 'The Fire Department requires significant spending to ensure public safety.',
+        selector: '#navigation',
+        text: 'The Fire Department requires significant spending and comes, along with the Police Department, under the Public Safety category.',
         position: 'left',
         before: function () {
-            $('g[nodeid="' + fireDepartment + '"]').find('div').first().attr('id', 'fire');
+		$('g[nodeid="' + fireDepartment + '"]').find('div').first().attr('id', 'fire');
         }
     }, {
         selector: '#cards',
-        text: 'Here is the basic information you need to know about the department.',
+        text: 'Here is the basic information you need to know about the Fire Department.',
         position: 'down',
         before: function () {
             avb.navigation.open(fireDepartment, 500);
@@ -106,8 +107,8 @@ avb.home = function () {
     *   Topic tour, begins when user clicks on FAQ
     */
     var snowTour = [{
-        selector: '#snow',
-        text: 'Snow removal has a relatively small cost compared to other departments',
+        selector: '#navigation',
+        text: 'Snow removal comes under Public Works, and has a relatively small cost compared to the rest of the municipal budget',
         position: 'top',
         before: function () {
             $('g[nodeid="' + snowRemoval + '"]').find('div').first().attr('id', 'snow');
@@ -133,17 +134,20 @@ avb.home = function () {
     *   Topic tour, begins when user clicks on FAQ
     */
     var schoolTour = [{
-        selector: '#school',
+        selector: '#navigation',
         text: 'Education is an important factor in Town expenses.',
-        position: 'bottom',
-        before: function () {
-            $('g[nodeid="' + townSchools + '"]').find('div').first().attr('id', 'school');
-        }
+        position: 'top',
+        before: function () { avb.navigation.open(townSchools, 500)  }
     }, {
         selector: '#cards',
-        text: 'They constitute about 40% of the yearly expenses.',
+        text: 'These are yearly school operating expenses. They include salaries and expenses for the Lexington Public Schools, and salaries, expenses and benefits for Minuteman School.',
         position: 'right',
         before :  function() { avb.navigation.open(townSchools, 500) }
+    }, {
+        selector: '#navigation',
+        text: 'Benefits for the Lexington Public Schools are paid out of Municipal Shared Expenses.',
+        position: 'left',
+        before :  function() { avb.navigation.open(sharedExpenses, 500) }
     }, {
         selector: '#zoombutton',
         text: 'Go back and explore more.',
@@ -233,11 +237,10 @@ avb.home = function () {
 
         // Link 2
         $('#q2').click(function () {
-            sectionClick.call(this);
-            setTimeout(function() {
-                schoolTour[0].before();
-                starttour(schoolTour);
-            },1200)
+            tourClick.call(this, schoolTour, function () {
+	        avb.navigation.open(townDepartments, 500);
+		schoolTour[0].before();
+	    })
         });
 
         // Link 3
