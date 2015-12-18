@@ -28,7 +28,7 @@ style="position: absolute; top: 0; right: 0; border: 0;"></a>
         </div>
 
         <div class="dataDownload">
-            <a href="https://github.com/goinvo/Visual-Town-Budget">GitHub
+            <a href="https://github.com/iubica/Visual-Town-Budget">GitHub
             Repo</a>
         </div>
     </div>
