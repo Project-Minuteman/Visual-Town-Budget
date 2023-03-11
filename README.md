@@ -252,3 +252,18 @@ For more information about CSV data formats or update procedures check `docs/dat
 ## License
 
 Visual Town Budget is licensed under the Apache-2.0 open source license. You can find more information on the Apache-2.0 license at http://www.apache.org/licenses/LICENSE-2.0
+
+## Developer environment on Macbook
+* Install xampp, see for example http://www.csc.villanova.edu/~mdamian/PHP/macxampp.htm
+* Check out `https://github.com/Project-Minuteman/Visual-Town-Budget` for example under your `~/build` folder
+* Use `sudo vi /Applications/XAMPP/etc/httpd.conf` to change the xampp config as follows:
+
+```
+#DocumentRoot "/Applications/XAMPP/xamppfiles/htdocs"                           
+DocumentRoot "/Users/<your_username>/build/Visual-Town-Budget/src/httpdocs"
+#<Directory "/Applications/XAMPP/xamppfiles/htdocs">                            
+<Directory "/Users/<your_username>/build/Visual-Town-Budget/src/httpdocs">
+```
+
+* Restart the xampp web server
+* Point your web browser to `http://localhost`
