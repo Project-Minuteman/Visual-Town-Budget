@@ -1,4 +1,4 @@
-#!/ramdisk/bin/python
+#!/usr/bin/python3
 
 import csv, json, hashlib, zlib, sys, os
 
@@ -8,7 +8,7 @@ MAX_LEVEL = 0
 
 class entry:
 
-	__slots__ = ['key', 'descr', 'values', 'level' 'children']
+	__slots__ = ['key', 'descr', 'values', 'source', 'level', 'url', 'children']
 
 	def __init__(self, key, descr, source, url, values, level):
 		self.key = key
@@ -22,8 +22,8 @@ class entry:
 	#node hash
 	def hashEntry(self):
 		m = hashlib.md5()
-		m.update(self.key)
-		m.update(self.descr)
+		m.update(self.key.encode('utf-8'))
+		m.update(self.descr.encode('utf-8'))
 		return m.hexdigest()
 
 	#node to json-ready data structute
@@ -50,8 +50,8 @@ def generateList(inputFile):
 	if isinstance(inputFile, str):
 		filename = inputFile.split('/')[-1].split('.')[0]
 		try:
-			csvfile = open(inputFile, 'rU')
-		except Exception, e:
+			csvfile = open(inputFile, 'r')
+		except Exception as e:
 			print('FATAL: Error opening ' + inputFile)
 			exit(1)
 	else:
@@ -67,7 +67,7 @@ def generateList(inputFile):
 
 		#initialize year-range
 		if not yearSet:
-			for key, value  in row.iteritems() :
+			for key, value in iter(row.items()):
 				if(key.find('LEVEL') != -1 and key != 'LEVEL'):
 					MAX_LEVEL = max(int(key[5:]), MAX_LEVEL)
 				#year case
@@ -94,18 +94,15 @@ def generateList(inputFile):
 				except:
 					value = 0
 				rowValues.append((year, value))
-			#create new entry object and add to list	
+			#create new entry object and add to list
 			csventries.append(entry(name.replace(' Total',''),row['TOOLTIP'], row['SOURCE'], row['SOURCE URL'], rowValues, int(row['LEVEL'])))
-
-		except Exception, e:
+		except Exception as e:
 			print('FATAL: Error parsing line ' + str(currentRow) + ': ' + str(row))
 			exit(1)
 
 		#update row number (useful for printing errors)
 		currentRow += 1
-
 	csvfile.close()
-
 	return csventries
 
 # takes a flat list of entries and transforms them
@@ -157,7 +154,7 @@ def generateTree(csventries, filename):
 				#print("- " + stack[-1].key + ' -> ' + node.key)
 				stack.append(node)
 			lastNode = node
-		except Exception, e:
+		except Exception as e:
 			print(e)
 			print('FATAL: Error reconstructing tree at node: ' + str(node))
 			exit(1)
@@ -175,7 +172,7 @@ def generateTree(csventries, filename):
 	# tree to json format
 	try:
 		outputFile = open(filename + '.json', 'w')
-	except  Exception, e:
+	except  Exception as e:
 		print('FATAL: Error opening output file.')
 		exit(1)
 
@@ -203,7 +200,7 @@ def updateHome():
 			fd = open(os.path.dirname(__file__) + "/" + file, 'rU')
 			csventries = generateList(fd)
 			sections += [csventries[-1]]
-		except Exception, e:
+		except Exception as e:
 			print('FATAL: Error in proceesing files for homepage update.')
 			exit(1)
 
@@ -214,7 +211,7 @@ def updateHome():
 	# dump data to json file
 	try:
 		outputFile = open('home.json', 'w')
-	except Exception, e:
+	except Exception as e:
 		print('FATAL: Error opening home.json for write.')
 		exit(1)
 
@@ -231,7 +228,7 @@ def updateData(inputFile):
 	generateTree(csventries, outputFile)
 
 
-def main():
+def main():			
 	if len(sys.argv) < 2:
 		print('Usage: processCSV.py {updatehome|filename}')
 	elif (sys.argv[1] == 'updatehome'):
