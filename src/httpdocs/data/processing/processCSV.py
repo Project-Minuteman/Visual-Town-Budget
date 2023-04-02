@@ -68,10 +68,10 @@ def generateList(inputFile):
 		#initialize year-range
 		if not yearSet:
 			for key, value in iter(row.items()):
-				if(key.find('LEVEL') != -1 and key != 'LEVEL'):
+				if(str(key).find('LEVEL') != -1 and str(key) != 'LEVEL'):
 					MAX_LEVEL = max(int(key[5:]), MAX_LEVEL)
 				#year case
-				if(key.isdigit()):
+				if(str(key).isdigit()):
 					FIRST_YEAR = int(key) if FIRST_YEAR == None else min(FIRST_YEAR, int(key))
 					LAST_YEAR = int(key) if LAST_YEAR == None else max(LAST_YEAR, int(key))
 			yearSet = True
@@ -197,7 +197,7 @@ def updateHome():
 		LAST_YEAR = None
 		MAX_LEVEL = 0
 		try:
-			fd = open(os.path.dirname(__file__) + "/" + file, 'rU')
+			fd = open(os.path.dirname(__file__) + "/" + file, 'r')
 			csventries = generateList(fd)
 			sections += [csventries[-1]]
 		except Exception as e:
