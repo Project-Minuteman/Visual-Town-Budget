@@ -159,6 +159,11 @@ function loadData() {
     avb.lastYear = d3.max(avb.root.values, function (d) {
         return d.year
     });
+
+    // set thisYear to last existing year with data
+    // prevents 2024 from showing up as selected default without data available
+    avb.thisYear = Math.min(avb.thisYear, avb.lastYear);
+
     yearIndex = avb.thisYear - avb.firstYear;
     avb.navbar.initialize(avb.thisYear);
 
