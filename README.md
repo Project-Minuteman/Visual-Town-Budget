@@ -267,3 +267,14 @@ DocumentRoot "/Users/<your_username>/build/Visual-Town-Budget/src/httpdocs"
 
 * Restart the xampp web server
 * Point your web browser to `http://localhost`
+
+## Development environment on Linux
+* Install `php`
+  * On Ubuntu: `sudo apt install php`
+  * On RedHat, Fedora, Centos: `sudo dnf install php`
+* Start the web server:
+   ```bash
+   cd src/httpdocs
+   php -S localhost:8080
+   ```
+* Point your web browser to [http://localhost:8080](http://localhost:8080)
