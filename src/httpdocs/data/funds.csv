@@ -1,9 +1,17 @@
-LEVEL1,LEVEL2,LEVEL3,TOOLTIP,SOURCE,SOURCE URL,2021,2022,2023,LEVEL
-Available Funds,Parking,,"In accordance with M.G.L. Ch. 40 S. 5B, the Town may appropriate in any year an amount not exceeding, in the aggregate, 10% of the amount raised in the preceding fiscal year's tax levy.","FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,562000,828237,,2
-Available Funds,Cemetery,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,40480,51933,16125,2
-Available Funds,Free Cash,,This Fund was created as a result of the 2005 Proposition 2 1/2 override. The Town makes annual appropriations to the fund until the time in which it is necessary to make withdrawals for the purposes of balancing the general fund budget.,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,9468456,14638059,15339570,2
-Available Funds,Health Claims Trust Fund,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,750000,750000,750000,2
-Available Funds,Transp.Demand Mgmt. Stab. Fund,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,85160,90000,88000,137000,141000,141000,141000,2
-Available Funds,Balances from Prior Yr. Capital Articles,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,,155974,266923,2
-Available Funds Total,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,11805351,17825379,17463018,1
-FUNDS TOTAL,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,11805351,17825379,18707776,0
+LEVEL1,LEVEL2,LEVEL3,TOOLTIP,SOURCE,SOURCE URL,2021,2022,2023,2024,2025,LEVEL
+Available Funds,Parking,,"In accordance with M.G.L. Ch. 40 S. 5B, the Town may appropriate in any year an amount not exceeding, in the aggregate, 10% of the amount raised in the preceding fiscal year's tax levy.","FY25 White Book, II-3",http://www.lexingtonma.gov/budget,562000,828237,,100000,250000,2
+Available Funds,Cemetery Sale of Lots Fund,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,40480,51933,16125,50408,123000,2
+Available Funds,Free Cash,,This Fund was created as a result of the 2005 Proposition 2 1/2 override. The Town makes annual appropriations to the fund until the time in which it is necessary to make withdrawals for the purposes of balancing the general fund budget.,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,9468456,14638059,15519832,15919859,16500000,2
+Available Funds,Health Claims Trust Fund,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,750000,750000,750000,240000,32270,2
+Available Funds,Transp.Demand Mgmt. Stab. Fund,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,141000,141000,141000,171000,171000,2
+Available Funds,Traffic Mitigation Stab. Fund,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,,,240000,80000,,2
+Available Funds,Transportation Management Overlay District (TMOD) Stabilization Fund ,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,,,65000,42000,,2
+Available Funds,PEG Access Special Revenue Fund ,,,"FY25 White Book, II-4",http://www.lexingtonma.gov/budget,,629287,637576,586833,646214,2
+Available Funds,Transportation Network Company (TNC) Special Revenue Fund ,,,"FY25 White Book, II-5",http://www.lexingtonma.gov/budget,,20889,6824,7685,13234,2
+Available Funds,Betterments Fund ,,,"FY25 White Book, II-6",http://www.lexingtonma.gov/budget,,,,11500,1000,2
+Available Funds,Visitors Center Stabilization Fund ,,,"FY25 White Book, II-7",http://www.lexingtonma.gov/budget,,,,50000,50000,2
+Available Funds,Special Education Reserve Fund ,,,"FY25 White Book, II-8",http://www.lexingtonma.gov/budget,,500000,,,,2
+Available Funds,Balances from Prior Yr. Capital Articles,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,,155974,266923,,,2
+Available Funds,Use of BAN Premiums ,,,"FY25 White Book, II-4",http://www.lexingtonma.gov/budget,,110000,,70000,30000,2
+Available Funds Total,,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,11805351,17825379,17643279,17328585,17941718,1
+FUNDS TOTAL,,,,"FY25 White Book, II-3",http://www.lexingtonma.gov/budget,11805351,17825379,17643279,17328585,17941718,0
