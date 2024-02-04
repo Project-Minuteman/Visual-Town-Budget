@@ -1,88 +1,78 @@
-LEVEL1,LEVEL2,LEVEL3,LEVEL4,LEVEL5,TOOLTIP,SOURCE,SOURCE URL,2021,2022,2023,LEVEL
-Education,Lexington Public Schools,Salaries & Wages,,,Salaries and wages for school employees. Benefits are paid from the Municipal Shared Expenses.,"FY23 Brown Book, III-4",http://www.lexingtonma.gov/budget,96807462,101247755,106450152,3
-Education,Lexington Public Schools,Expenses,,,,"FY23 Brown Book, III-4",http://www.lexingtonma.gov/budget,17656852,19388790,21804295,3
-Education,Lexington Public Schools Total,,,,Tax Levy funded portion of Lexington Public Schools budget.,"FY23 Brown Book, III-4",http://www.lexingtonma.gov/budget,114464314,120636545,128254447,2
-Education,Minuteman Regional School,,,,,"FY23 Brown Book, III-8",http://www.lexingtonma.gov/budget,2863147,3130038,3223898,2
-Education Total,,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,117327461,123766583,131478345,1
-Municipal Departments,Public Works,Administration,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,660102,693469,738687,3
-Municipal Departments,Public Works,Town Engineering,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,930378,1015497,1080193,3
-Municipal Departments,Public Works,Street Lighting,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,123287,228200,203500,3
-Municipal Departments,Public Works,Highway,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,1305787,1636717,1695756,3
-Municipal Departments,Public Works,Equipment Maintenance,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,753403,840179,921051,3
-Municipal Departments,Public Works,Snow Removal,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,1447960,1522967,1585694,3
-Municipal Departments,Public Works,Parks,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,1418322,1436075,1545793,3
-Municipal Departments,Public Works,Forestry,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,525200,552426,523391,3
-Municipal Departments,Public Works,Cemetery,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,344843,393778,405624,3
-Municipal Departments,Public Works,Refuse Collection,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,952423,980996,1010426,3
-Municipal Departments,Public Works,Recycling,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,1265853,1478817,1468095,3
-Municipal Departments,Public Works,Refuse Disposal,,,,"FY23 Brown Book, V-5",http://www.lexingtonma.gov/budget,767750,749022,789925,3
-Municipal Departments,Public Works Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,10495308,11528143,11968145,2
-Municipal Departments,Public Safety,Police Dept,Personel Services,Salaries and Wages,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,5754440,6172458,6142708,5
-Municipal Departments,Public Safety,Police Dept,Personel Services,Overtime,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,1248553,942040,1022999,5
-Municipal Departments,Public Safety,Police Dept,Personel Services Total,,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,7002993,7047347,7169307,4
-Municipal Departments,Public Safety,Police Dept,Expenses,Contractual Services,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,287089,410742,419324,5
-Municipal Departments,Public Safety,Police Dept,Expenses,Utilities,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,112457,128487,164747,5
-Municipal Departments,Public Safety,Police Dept,Expenses,Supplies,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,264008,217281,219623,5
-Municipal Departments,Public Safety,Police Dept,Expenses,Small Capital,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,270135,268639,292376,5
-Municipal Departments,Public Safety,Police Dept,Expenses Total,,,"FY23 Brown Book, VI-6",http://www.lexingtonma.gov/budget,933689,1005548,1096070,4
-Municipal Departments,Public Safety,Police Dept Total,,,,"FY23 Brown Book, I-4",http://www.lexingtonma.gov/budget,7936682,8052895,8265377,3
-Municipal Departments,Public Safety,Fire Dept,Personal Services,Salaries and Wages,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,5878461,6075937,6133174,5
-Municipal Departments,Public Safety,Fire Dept,Personal Services,Overtime,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,1108616,1171264,1136491,5
-Municipal Departments,Public Safety,Fire Dept,Personal Services Total,,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,6987078,7367013,7269665,4
-Municipal Departments,Public Safety,Fire Dept,Expenses,Contractual Services,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,292933,336304,351154,5
-Municipal Departments,Public Safety,Fire Dept,Expenses,Utilities,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,44402,67890,80331,5
-Municipal Departments,Public Safety,Fire Dept,Expenses,Supplies,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,180807,217415,218185,5
-Municipal Departments,Public Safety,Fire Dept,Expenses,Small Capital,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,112549,100500,149133,5
-Municipal Departments,Public Safety,Fire Dept,Expenses Total,,,"FY23 Brown Book, VI-10",http://www.lexingtonma.gov/budget,630691,632642,798803,4
-Municipal Departments,Public Safety,Fire Dept Total,,,,"FY23 Brown Book, I-5",http://www.lexingtonma.gov/budget,7617769,7999655,8068468,3
-Municipal Departments,Public Safety Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,15554451,16052550,16333845,2
-Municipal Departments,Culture & Recreation,Library Personal Services,,,,"FY23 Brown Book, VII-5",http://www.lexingtonma.gov/budget,2161069,2525607,2637708,3
-Municipal Departments,Culture & Recreation,Library Expenses,,,,"FY23 Brown Book, VII-10",http://www.lexingtonma.gov/budget,563057,630741,698511,3
-Municipal Departments,Culture & Recreation Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,2725127,3019439,3336219,2
-Municipal Departments,Human Services,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,1293475,1277465,1527421,2
-Municipal Departments,"Land Use, Health And Development Deparment",,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,2244758,2693989,2792613,2
-Municipal Departments,General Government,Board of Selectmen,,,"The Board of Selectmen, together with the Town Manager, represents the executive branch of the Town government. The Board consists of five members, elected for three-year terms. Selectmen serve without compensation. The Board acts as the Town's primary policy making body for a wide variety of issues affecting service delivery, finance and Town infrastructure. They provide oversight in matters of litigation, act as the licensing authority, enact rules and regulations regarding traffic control and are responsible for calling Town Meetings and approving the Town Meeting Warrant.","FY23 Brown Book, X-5",http://www.lexingtonma.gov/budget,1213197,1259808,1298802,3
-Municipal Departments,General Government,Town Manager,,,"The Board of Selectmen appoints the Town Manager, who oversees the daily operations of all general government departments, implements the policies of the Board of Selectmen, proposes an annual operating and capital budget, and enforces Town bylaws and regulations. The Town Manager's authority and responsibilities are established in the Selectmen-Town Manager Act of 1968. In addition, the Town Manager's Office is responsible for human resources, benefits administration and risk management.","FY23 Brown Book, X-10",http://www.lexingtonma.gov/budget,1413536,1400613,2132393,3
-Municipal Departments,General Government,Town Committees,,,"Town Committees includes the Appropriation Committee, Capital Expenditures Committee, Town Celebrations Committee and various boards and committees appointed by the Board of Selectmen, Moderator and the Town Manager.","FY23 Brown Book, X-14",http://www.lexingtonma.gov/budget,24890,57974,70160,3
-Municipal Departments,General Government,Finance,,,,"FY23 Brown Book, X-19",http://www.lexingtonma.gov/budget,1764887,1919788,2058151,3
-Municipal Departments,General Government,Town Clerk,,,,"FY23 Brown Book, X-23",http://www.lexingtonma.gov/budget,522670,504690,627297,3
-Municipal Departments,General Government,Information Services,,,,"FY23 Brown Book, X-27",http://www.lexingtonma.gov/budget,2229377,2632724,2667509,3
-Municipal Departments,General Government Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,7168558,7682467,8854311,2
-Municipal Departments Total,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,39481849,41023558,44812553,1
-Shared Expenses,Employee Benefits,Contributory Retirement,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,6679199,7417500,9219250,3
-Shared Expenses,Employee Benefits,Non-Contributory Retirement,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,15907,16327,16777,3
-Shared Expenses,Employee Benefits,Medicare,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,1907961,1986677,2054651,3
-Shared Expenses,Employee Benefits,Health Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,25448028,26483798,29554494,3
-Shared Expenses,Employee Benefits,Dental Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,985610,1093458,1109243,3
-Shared Expenses,Employee Benefits,Life Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,20384,17160,25000,3
-Shared Expenses,Employee Benefits,Unemployment,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,64311,88124,200000,3
-Shared Expenses,Employee Benefits,Workers Compensation,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,875000,750000,625000,3
-Shared Expenses,Employee Benefits,Property & Liability Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,791296,830781,895000,3
-Shared Expenses,Employee Benefits,Uninsured Losses,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,250000,250000,200000,3
-Shared Expenses,Employee Benefits Total,,,,This represents the combined benefits program for Town and School employees and retirees. ,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,37037696,38913253,43882638,2
-Shared Expenses,Within-Levy Debt Service,,,,Debt service includes general fund principal and interest payments for levy-supported (non-exempt) debt and temporary borrowing as well as for capital projects. Also included in these figures are debt issuance costs and interest on abatements.,"FY23 Brown Book, IV-12",http://www.lexingtonma.gov/budget,10237538,10397112,7541580,2
-Shared Expenses,Reserve Fund,,,,"This reserve fund provides for extraordinary and unforeseen expenses, and is unde the jurisdiction of the Appropriation Committee.","FY23 Brown Book, IV-15",http://www.lexingtonma.gov/budget,,750000,750000,2
-Shared Expenses,Public Facilities,Compensation,,,,"FY23 Brown Book, IV-19",http://www.lexingtonma.gov/budget,4746049,4706712,4877999,3
-Shared Expenses,Public Facilities,Expenses,,,,"FY23 Brown Book, IV-19",http://www.lexingtonma.gov/budget,5749259,5996893,7090146,3
-Shared Expenses,Public Facilities Total,,,,"Public Facilities include all municipal and school buildings, and the Cary Memorial Library.","FY23 Brown Book, IV-19",http://www.lexingtonma.gov/budget,10495308,10703605,11968145,2
-Shared Expenses Total,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,58783939,61821631,65846454,1
-Capital Total,,,,,"Capital expenses financed with cash, as opposed to within-levy debt or excluded debt.","FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,7812019,10136491,14251037,1
-Other Total,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,1368916,6541910,8057163,1
-Revenue Offsets,Cherry Sheet Assessments,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,960031,1001069,1126720,2
-Revenue Offsets,Cherry Sheet Offsets - Public Libraries,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,63823,60127,54837,2
-Revenue Offsets,Overlay (abatements),,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,750000,900000,750000,2
-Revenue Offsets,Snow Deficit,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,,,,2
-Revenue Offsets Total,,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,1773854,1961196,2331557,1
-Total Other Expenses,Revolving Funds,,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,2356214,1867411,3542786,2
-Total Other Expenses,Grants,,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,156074,146444,149764,2
-Total Other Expenses,CPA,,,,"Funding for open space, historic resources, affordable housing, and outdoor recreational facilities.","FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,5528047,6352089,3724550,2
-Total Other Expenses,Enterprise Funds (Direct),Water,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,11402688,12448489,12707237,3
-Total Other Expenses,Enterprise Funds (Direct),Wastewater,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,10448199,11203270,11798658,3
-Total Other Expenses,Enterprise Funds (Direct),Recreation and Community Programs,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,2066677,2597045,3425097,3
-Total Other Expenses,Enterprise Funds (Direct),Cash Capital,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,1600000,430000,1317000,3
-Total Other Expenses,Enterprise Funds (Direct) Total,,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,25517564,26330795,29247992,2
-Total Other Expenses,Exempt Debt Service,Municipal,,,Annual Exempt Debt Service Payment for municipal projects,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,22628627,2228673,2117251,3
-Total Other Expenses,Exempt Debt Service,Schools,,,Annual Exempt Debt Service Payment for school projects,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,15223476,14479164,13779712,3
-Total Other Expenses,Exempt Debt Service Total,,,,"Annual Exempt Debt Service Payment, net of mitigation using within-levy Capital Stabilization Funds","FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,-4600000,-2800000,-800000,2
-Total Other Expenses Total,,,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,45042093,49062130,64477035,1
-APPROPRIATIONS TOTAL,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,"271,016,914","291,934,903","316,319,029",0
+LEVEL1,LEVEL2,LEVEL3,LEVEL4,LEVEL5,TOOLTIP,SOURCE,SOURCE URL,2021,2022,2023,2024,2025,LEVEL
+Education,Lexington Public Schools,Salaries & Wages,,,Salaries and wages for school employees. Benefits are paid from the Municipal Shared Expenses.,Budget Line 1100,http://www.lexingtonma.gov/budget,96807462,101412689,106160982,112791505,120852942,3
+Education,Lexington Public Schools,Expenses,,,,Budget Line 1100,http://www.lexingtonma.gov/budget,17656852,19407875,19077403,21938740,19482303,3
+Education,Lexington Public Schools Total,,,,Tax Levy funded portion of Lexington Public Schools budget.,Budget Line 1100,http://www.lexingtonma.gov/budget,114464314,120820565,125238385,134730244,140335244,2
+Education,Minuteman Regional School,,,,,Budget Line 1200,http://www.lexingtonma.gov/budget,2863147,3130038,3223898,3501977,3482747,2
+Education Total,,,,,,Budget Line 1200,http://www.lexingtonma.gov/budget,117327461,123766583,131075358,138635208,143991114,1
+Municipal Departments,Public Works,Administration,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,660102,689192,761915,766915,786196,3
+Municipal Departments,Public Works,Town Engineering,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,930378,921050,970131,1125915,1172113,3
+Municipal Departments,Public Works,Street Lighting,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,123287,148140,219729,194300,190500,3
+Municipal Departments,Public Works,Highway,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,1305787,1402731,1528234,1699389,1701427,3
+Municipal Departments,Public Works,Equipment Maintenance,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,753403,800784,1027533,973295,961531,3
+Municipal Departments,Public Works,Snow Removal,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,1447960,1469361,1594186,1652444,1594186,3
+Municipal Departments,Public Works,Parks,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,1418322,1483909,1541606,1596933,1665328,3
+Municipal Departments,Public Works,Forestry,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,525200,535853,520468,533103,555920,3
+Municipal Departments,Public Works,Cemetery,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,344843,286447,343787,409072,412761,3
+Municipal Departments,Public Works,Refuse Collection,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,952423,980996,1010426,1222297,1255735,3
+Municipal Departments,Public Works,Recycling,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,1265853,1282728,1494697,1876197,1995928,3
+Municipal Departments,Public Works,Refuse Disposal,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,767750,760618,743640,781235,723481,3
+Municipal Departments,Public Works Total,,,,,"FY25 White Book, V-5",http://www.lexingtonma.gov/budget,10495308,10703605,11573187,12717509,13015106,2
+Municipal Departments,Public Safety,Police Dept,Personel Services,Salaries and Wages,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,5754440,5575843,5979255,6822838,7170150,5
+Municipal Departments,Public Safety,Police Dept,Personel Services,Overtime,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,1248553,1471504,1504901,1045824,1162976,5
+Municipal Departments,Public Safety,Police Dept,Personel Services Total,,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,7002993,7047347,7484155,7868662,8317126,4
+Municipal Departments,Public Safety,Police Dept,Expenses,Contractual Services,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,287089,330177,381889,402578,420660,5
+Municipal Departments,Public Safety,Police Dept,Expenses,Utilities,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,112457,111930,114017,157723,153453,5
+Municipal Departments,Public Safety,Police Dept,Expenses,Supplies,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,264008,264609,280424,230067,231567,5
+Municipal Departments,Public Safety,Police Dept,Expenses,Small Capital,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,270135,298832,295573,383500,432000,5
+Municipal Departments,Public Safety,Police Dept,Expenses Total,,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,933689,1005548,1071903,1173868,1237680,4
+Municipal Departments,Public Safety,Police Dept Total,,,,"FY25 White Book, Line 4100",http://www.lexingtonma.gov/budget,7936682,8052895,8556059,9042530,9536323,3
+Municipal Departments,Public Safety,Fire Dept,Personal Services,Salaries and Wages,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,5878461,5993437,6050829,6134946,7033972,5
+Municipal Departments,Public Safety,Fire Dept,Personal Services,Overtime,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,1108616,1373576,1227783,1151265,1368984,5
+Municipal Departments,Public Safety,Fire Dept,Personal Services Total,,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,6987078,7367013,7278612,7286211,8402956,4
+Municipal Departments,Public Safety,Fire Dept,Expenses,Contractual Services,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,292933,324000,333787,378744,382748,5
+Municipal Departments,Public Safety,Fire Dept,Expenses,Utilities,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,44402,48652,71719,80331,76831,5
+Municipal Departments,Public Safety,Fire Dept,Expenses,Supplies,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,180807,211740,262734,236785,262365,5
+Municipal Departments,Public Safety,Fire Dept,Expenses,Small Capital,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,112549,48250,111872,120000,165000,5
+Municipal Departments,Public Safety,Fire Dept,Expenses Total,,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,630691,632642,780112,815860,886944,4
+Municipal Departments,Public Safety,Fire Dept Total,,,,"FY25 White Book, Line 4200",http://www.lexingtonma.gov/budget,7617769,7999655,8058724,8102071,9289900,3
+Municipal Departments,Public Safety Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,15554451,16052550,16614783,17144601,18826223,2
+Municipal Departments,Culture & Recreation,Library Personal Services,,,,"FY23 Brown Book, VII-5",http://www.lexingtonma.gov/budget,2161069,2412910,2650088,2696650,2748471,3
+Municipal Departments,Culture & Recreation,Library Expenses,,,,"FY23 Brown Book, VII-10",http://www.lexingtonma.gov/budget,563057,606529,694637,689170,712094,3
+Municipal Departments,Culture & Recreation Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,2725127,3019439,3344725,3385820,3460565,2
+Municipal Departments,Human Services,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,1293475,1216207,1480707,1701698,763323,2
+Municipal Departments,Health,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,,330575,404735,527313,545148,2
+Municipal Departments,Land Use & Housing Development Dept,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,,2018714,2175513,2399116,2442606,2
+Municipal Departments,General Government,Select Board Personal Services,,,"The Select Board, together with the Town Manager, represents the executive branch of the Town government. The Board consists of five members, elected for three-year terms.","FY23 Brown Book, X-5",http://www.lexingtonma.gov/budget,,136988,144276,150784,156709,3
+Municipal Departments,General Government,Select Board Expenses,,,"The Select Board, together with the Town Manager, represents the executive branch of the Town government. The Board consists of five members, elected for three-year terms.","FY23 Brown Book, X-5",http://www.lexingtonma.gov/budget,,81625,144276,150784,156709,3
+Municipal Departments,General Government,Town Manager,,,"The Select Board appoints the Town Manager, who oversees the daily operations of all general government departments, implements the policies of the Select Board, proposes an annual operating and capital budget, and enforces Town bylaws and regulations.","FY23 Brown Book, X-10",http://www.lexingtonma.gov/budget,1413536,1400613,2012522,2210252,1799019,3
+Municipal Departments,General Government,Town Committees,,,"Town Committees includes the Appropriation Committee, Capital Expenditures Committee, Town Celebrations Committee and various boards and committees appointed by the Board of Selectmen, Moderator and the Town Manager.","FY23 Brown Book, X-14",http://www.lexingtonma.gov/budget,24890,57974,56306,66208,72910,3
+Municipal Departments,General Government,Finance,,,,"FY23 Brown Book, X-19",http://www.lexingtonma.gov/budget,1764887,1923922,2115172,2164478,2187178,3
+Municipal Departments,General Government,Town Clerk,,,,"FY23 Brown Book, X-23",http://www.lexingtonma.gov/budget,522670,504690,573185,597360,680819,3
+Municipal Departments,General Government,Innovation Technology,,,,"FY23 Brown Book, X-27",http://www.lexingtonma.gov/budget,2229377,2587436,2918565,3163269,3124175,3
+Municipal Departments,General Government Total,,,,,"FY23 Brown Book, I-3",http://www.lexingtonma.gov/budget,7168558,8402989,9241884,9289255,9252736,2
+Municipal Departments Total,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,39481849,43996639,47117941,49404799,49056323,1
+Shared Expenses,Employee Benefits,Contributory Retirement,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,6679199,7417500,9219250,9984800,10743076,3
+Shared Expenses,Employee Benefits,Non-Contributory Retirement,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,,8798,,,,3
+Shared Expenses,Employee Benefits,Medicare,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,1907961,1986677,2089413,2189679,2305030,3
+Shared Expenses,Employee Benefits,Health Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,25448028,26483798,27711900,31612815,33947889,3
+Shared Expenses,Employee Benefits,Dental Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,985610,1080414,1045057,1110141,1299976,3
+Shared Expenses,Employee Benefits,Life Insurance,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,20384,17160,17851,25000,25000,3
+Shared Expenses,Employee Benefits,Unemployment,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,64311,88124,118848,200000,200000,3
+Shared Expenses,Employee Benefits,Workers Compensation,,,,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,875000,750000,743848,700000,700000,3
+Shared Expenses,Employee Benefits Total,,,,This represents the combined benefits program for Town and School employees and retirees. ,"FY23 Brown Book, IV-4",http://www.lexingtonma.gov/budget,37037696,37832472,40827320,45622435,48827929,2
+Shared Expenses,Within-Levy Debt Service,,,,Debt service includes general fund principal and interest payments for levy-supported (non-exempt) debt and temporary borrowing as well as for capital projects. Also included in these figures are debt issuance costs and interest on abatements.,"FY23 Brown Book, IV-12",http://www.lexingtonma.gov/budget,10237538,10364264,7168480,6854101,6123352,2
+Shared Expenses,Reserve Fund,,,,"This reserve fund provides for extraordinary and unforeseen expenses, and is unde the jurisdiction of the Appropriation Committee.","FY23 Brown Book, IV-15",http://www.lexingtonma.gov/budget,,,,750000,850000,2
+Shared Expenses,Public Facilities,Compensation,,,,"FY23 Brown Book, IV-19",http://www.lexingtonma.gov/budget,4746049,6176627,6269638,7162164,7403381,3
+Shared Expenses,Public Facilities,Expenses,,,,"FY23 Brown Book, IV-19",http://www.lexingtonma.gov/budget,5749259,6217322,6968002,7480417,8029249,3
+Shared Expenses,Public Facilities Total,,,,"Public Facilities include all municipal and school buildings, and the Cary Memorial Library.","FY23 Brown Book, IV-19",http://www.lexingtonma.gov/budget,10495308,12183930,12834332,14060403,14811605,2
+Shared Expenses Total,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,58783939,61821631,62343287,68868939,72448524,1
+Public Works Total,,,,,"Capital expenses financed with cash, as opposed to within-levy debt or excluded debt.","FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,,10703605,11573187,12717509,13015106,1
+Revenue Offsets,Cherry Sheet Assessments,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,960031,1048843,1003631,1057413,1126720,2
+Revenue Offsets,Cherry Sheet Offsets - Public Libraries,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,63823,53560,77628,83142,86052,2
+Revenue Offsets,Overlay (abatements),,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,750000,900000,750000,750000,750000,2
+Revenue Offsets,Snow Deficit,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,,,,,400000,2
+Revenue Offsets Total,,,,,,"FY23 Brown Book, II-3",http://www.lexingtonma.gov/budget,1773854,2002403,1831259,1890555,2362772,1
+Other Articles,Allocated to Capital Stabilization Fund,Schools,,,Annual Exempt Debt Service Payment for school projects,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,,3730836,3784689,396145,,3
+Other Articles,OPEB Trust Fund,,,,"Annual Exempt Debt Service Payment, net of mitigation using within-levy Capital Stabilization Funds","FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,,1879721,1929721,1929721,2029721,2
+Other Articles Total,,,,,,"FY23 Brown Book, I-2",http://www.lexingtonma.gov/budget,,6541910,8282271,8106841,8053802,1
+APPROPRIATIONS TOTAL,,,,,,"FY23 Brown Book, I-1",http://www.lexingtonma.gov/budget,224774184,243290172,260351578,278668406,289641813,0
